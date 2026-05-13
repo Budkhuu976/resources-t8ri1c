@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Budkhuu976.github.io/resources-t8ri1c/sitemap.xml
